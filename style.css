@@ -1,0 +1,29 @@
+body{
+    padding-top: 15px;
+        padding-left: 20px;
+        align-content: center;
+        background-image: url(sponge.jpg);
+        background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: rgb(3, 53, 73);
+
+}
+h1{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+background-color: rgba(53, 207, 212, 0.438);
+height: fit-content;
+width: fit-content;
+margin-left: 650px;}
+table{
+margin-top: 20px;
+background-color: rgba(109, 238, 231, 0.699);
+margin-left: 500px;
+}
+th{
+    padding: 20px;
+}
+td{
+    padding: 30px;
+}
